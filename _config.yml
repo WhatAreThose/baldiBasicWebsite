@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 include:
   - index2.md
   - index.md
