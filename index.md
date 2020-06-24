@@ -10,3 +10,4 @@ Character: **The Test**
 - **The Test's** head is a *strange, floating, bald* human-like CGI head with an extended neck ended with what appears to be a prism shape.
 - Its facial features only sport small, pupil-less white eyeballs and an open red square-shaped mouth. This head mildly resembles the overall shape of a light bulb.
 - **The Test's** body wears a sleeveless darker gray shirt and black pants. **The Test** also wears dark brown/yellow sleeves, flat white shoes, and white-gloved hands with four fingers.
+[Image](https://vignette.wikia.nocookie.net/baldis-basics-in-education-and-learning/images/e/e9/OhNo.png/revision/latest?cb=20200612083904)
