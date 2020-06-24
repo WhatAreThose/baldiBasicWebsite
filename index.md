@@ -31,4 +31,4 @@ Character: **The Test**
 
 
 
-*[Page 2](https://whatarethose.github.io/whatAreThoseShooes/page2.md)*
+*[Page 2](https://whatarethose.github.io/whatAreThoseShooes/index2.md)*
