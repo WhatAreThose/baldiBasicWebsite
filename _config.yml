@@ -1,2 +1,9 @@
 theme: jekyll-theme-tactile
-title: Baldi's Basics Website!
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index2.md
+  - index.md
